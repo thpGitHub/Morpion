@@ -17,7 +17,7 @@
     align-content: center;
     width: 178px;
     height: 178px;
-    border: 5px solid burlywood;
+    border: 5px solid darkblue;
 
 }
 .case{
@@ -25,7 +25,7 @@
     height: 50px;
 
 
-    border: 5px solid yellow;
+    border: 5px solid dodgerblue;
     display: flex;
     justify-content: center;
     align-items: center;
